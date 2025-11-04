@@ -1,0 +1,21 @@
+# 1. instalação do repositorio
+git clone https://github.com/VitorJacintho/prova03-playwright-VitorCittadinJacintho.git
+
+
+# 2. Instalação das dependencias
+
+npm install -D @playwright/test
+
+npx playwright install
+
+# 3. Execução dos testes
+
+# roda todos os testes
+npx playwright test
+
+# abre o relatório
+npx playwright show-report
+
+
+
+

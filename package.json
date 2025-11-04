@@ -1,0 +1,27 @@
+{
+  "name": "prova03-playwright-vitorcittadinjacintho",
+  "version": "1.0.0",
+  "description": "git clone https://github.com/VitorJacintho/prova03-playwright-VitorCittadinJacintho.git",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorJacintho/prova03-playwright-VitorCittadinJacintho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VitorJacintho/prova03-playwright-VitorCittadinJacintho/issues"
+  },
+  "homepage": "https://github.com/VitorJacintho/prova03-playwright-VitorCittadinJacintho#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1"
+  }
+}
