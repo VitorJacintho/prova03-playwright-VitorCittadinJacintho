@@ -3,6 +3,7 @@ git clone https://github.com/VitorJacintho/prova03-playwright-VitorCittadinJacin
 
 
 # 2. Instalação das dependencias
+npm init -y
 
 npm install -D @playwright/test
 
