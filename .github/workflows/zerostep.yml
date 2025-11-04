@@ -1,6 +1,0 @@
-steps:
-  - name: Run Playwright test via ZeroStep
-    uses: zerostep/action@v1
-    with:
-      test: "tests/navigation.spec.ts"
-      runner: "playwright"
